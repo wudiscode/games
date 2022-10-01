@@ -1,0 +1,10 @@
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\bin\Debug\石头剪刀布.exe.config
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\bin\Debug\石头剪刀布.exe
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\bin\Debug\石头剪刀布.pdb
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.csproj.AssemblyReference.cache
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.Form1.resources
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.Properties.Resources.resources
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.csproj.GenerateResource.cache
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.csproj.CoreCompileInputs.cache
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.exe
+C:\Users\wudi\Desktop\石头剪刀布\石头剪刀布\obj\Debug\石头剪刀布.pdb
